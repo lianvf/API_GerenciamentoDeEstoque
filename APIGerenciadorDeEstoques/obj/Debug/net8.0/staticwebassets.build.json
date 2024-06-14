@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zhsDjPGNh+wfdgXMiIr4RNVRtaKLAAWBI4tRmry+odU=",
+  "Source": "APIGerenciadorDeEstoques",
+  "BasePath": "_content/APIGerenciadorDeEstoques",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
